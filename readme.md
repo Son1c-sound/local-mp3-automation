@@ -15,3 +15,4 @@ Extract script from audio
 
 I do this manually because AI was not formatting well, so i prefer observer and copy-paste
 dialoge myself
+
