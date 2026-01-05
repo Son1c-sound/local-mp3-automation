@@ -1,5 +1,9 @@
 Quick way i am using to generate voices for dialoge fake imessage tiktoks
 
+Envs needed: 
+
+OPENAI_API_KEY=
+ELEVENLABS_API_KEY=
 
 Extract script from audio
 
@@ -11,4 +15,3 @@ Extract script from audio
 
 I do this manually because AI was not formatting well, so i prefer observer and copy-paste
 dialoge myself
-
